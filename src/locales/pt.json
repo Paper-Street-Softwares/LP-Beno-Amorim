@@ -1,8 +1,8 @@
 {
   "infos": {
-    "adress": "A_Definir <br/> A_Definir",
+    "adress": "Rua Marino Bruno Regini, nº 270. <br/> Conj. 12. Nova Ribeirânia,  <br/> Ribeirão Preto - SP, CEP: 14096-710",
     "adressSecundario": "A_Definir",
-    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 8h às 18h",
     "expedienteSecundario": "A_Definir",
     "obs": "A_Definir"
   },
@@ -11,49 +11,48 @@
       "home": "Início",
       "service": "Serviços",
       "about": "Sobre Nós",
-      "faq": "Perguntas Frequentes",
-      "maps": "Mapa"
+      "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO CIVILISTA",
+    "title": "Sem a defesa certa, tudo pesa <span class=\"text-primary font-bold\">contra você</span>",
+    "subtitle": "Problemas jurídicos não esperam. A diferença entre vencer ou perder pode estar na sua escolha.",
+    "ctaButtonText": "Quero estar protegido",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento presencial e online para todo Brasil."
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ATUAÇÃO",
+    "title": "Áreas em que podemos ajudar você",
+    "subtitle": "Conheça os principais campos do direito em que oferecemos suporte especializado.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Cível",
+      "subtitle": "Proteção de direitos em disputas e relações jurídicas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Médico e Saúde",
+      "subtitle": "Defesa de pacientes e profissionais em questões da saúde.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito do Consumidor",
+      "subtitle": "Garantia de direitos frente a práticas abusivas de consumo.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Contratual",
+      "subtitle": "Segurança jurídica em negociações e elaboração de contratos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -84,19 +83,19 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É O DR. BENO AMORIM",
+    "title": "Minha trajetória",
+    "subtitle": "Mais de uma década defendendo direitos com dedicação e clareza.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Há mais de 10 anos atuo no campo jurídico, com foco no Direito Cível e em áreas como contratos, consumidor, responsabilidade civil, empresarial, trabalhista e previdenciário. Minha missão é oferecer suporte completo, desde a orientação inicial até a tomada das medidas cabíveis, seja na esfera judicial ou extrajudicial.",
+    "modal": "Há mais de 10 anos atuo no campo jurídico, com foco no Direito Cível e em áreas como contratos, consumidor, responsabilidade civil, empresarial, trabalhista e previdenciário. Minha missão é oferecer suporte completo, desde a orientação inicial até a tomada das medidas cabíveis, seja na esfera judicial ou extrajudicial. <br/> <br/> O que me diferencia é o atendimento próximo e cuidadoso, sempre atento aos interesses do cliente. Busco traduzir cada demanda de forma técnica e acessível, garantindo clareza, objetividade e confiança em todo o processo. <br/> <br/> Ao longo da minha trajetória, tenho auxiliado clientes em situações desafiadoras como negativas de planos de saúde, reajustes abusivos, divórcios, pensões, elaboração de contratos, cobranças, indenizações e problemas em viagens. Meu compromisso é transformar obstáculos em soluções jurídicas eficazes. <br/> <br/>",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
-      "miniTag": "A_Definir",
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "labelInstagram": "A_Definir",
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-me no Instagram",
       "labelFacebook": "A_Definir",
       "labelLinkedin": "A_Definir",
       "labelX": "A_Definir"
